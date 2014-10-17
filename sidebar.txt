@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[slq:home|Door43 (slq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-slq|d43-slq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-slq/archive/master.zip|d43-slq.zip]]
+
+**Recent Changes**
+{{changes>ns = slq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/slq|Ethnologue data]]
+
